@@ -1,0 +1,319 @@
+Logs 
+
+System Clock: 0.0 : Bus arrived at stop: 3
+System Clock: 0.0 : Bus arrived at stop: 6
+System Clock: 0.0 : Bus arrived at stop: 9
+System Clock: 0.0 : Bus arrived at stop: 12
+System Clock: 0.0 : Bus arrived at stop: 15
+System Clock: 900.0 :Bus departing stop: 3
+System Clock: 900.0 :Bus departing stop: 6
+System Clock: 900.0 :Bus departing stop: 9
+System Clock: 900.0 :Bus departing stop: 12
+System Clock: 900.0 :Bus departing stop: 15
+System Clock: 1200.0 : Bus arrived at stop: 4
+System Clock: 1200.0 : Bus arrived at stop: 7
+System Clock: 1200.0 : Bus arrived at stop: 10
+System Clock: 1200.0 : Bus arrived at stop: 13
+System Clock: 1200.0 : Bus arrived at stop: 1
+System Clock: 1800.0 :Bus departing stop: 4
+System Clock: 1800.0 :Bus departing stop: 7
+System Clock: 1800.0 :Bus departing stop: 10
+System Clock: 1800.0 :Bus departing stop: 13
+System Clock: 1800.0 :Bus departing stop: 1
+System Clock: 2100.0 : Bus arrived at stop: 5
+System Clock: 2100.0 : Bus arrived at stop: 8
+System Clock: 2100.0 : Bus arrived at stop: 11
+System Clock: 2100.0 : Bus arrived at stop: 14
+System Clock: 2100.0 : Bus arrived at stop: 2
+System Clock: 2700.0 :Bus departing stop: 5
+System Clock: 2700.0 :Bus departing stop: 8
+System Clock: 2700.0 :Bus departing stop: 11
+System Clock: 2700.0 :Bus departing stop: 14
+System Clock: 2700.0 :Bus departing stop: 2
+System Clock: 3000.0 : Bus arrived at stop: 6
+System Clock: 3000.0 : Bus arrived at stop: 9
+System Clock: 3000.0 : Bus arrived at stop: 12
+System Clock: 3000.0 : Bus arrived at stop: 15
+System Clock: 3000.0 : Bus arrived at stop: 3
+System Clock: 3600.0 :Bus departing stop: 6
+System Clock: 3600.0 :Bus departing stop: 9
+System Clock: 3600.0 :Bus departing stop: 12
+System Clock: 3600.0 :Bus departing stop: 15
+System Clock: 3600.0 :Bus departing stop: 3
+System Clock: 3900.0 : Bus arrived at stop: 7
+System Clock: 3900.0 : Bus arrived at stop: 10
+System Clock: 3900.0 : Bus arrived at stop: 13
+System Clock: 3900.0 : Bus arrived at stop: 1
+System Clock: 3900.0 : Bus arrived at stop: 4
+System Clock: 4500.0 :Bus departing stop: 7
+System Clock: 4500.0 :Bus departing stop: 10
+System Clock: 4500.0 :Bus departing stop: 13
+System Clock: 4500.0 :Bus departing stop: 1
+System Clock: 4500.0 :Bus departing stop: 4
+System Clock: 4800.0 : Bus arrived at stop: 8
+System Clock: 4800.0 : Bus arrived at stop: 11
+System Clock: 4800.0 : Bus arrived at stop: 14
+System Clock: 4800.0 : Bus arrived at stop: 2
+System Clock: 4800.0 : Bus arrived at stop: 5
+System Clock: 5400.0 :Bus departing stop: 8
+System Clock: 5400.0 :Bus departing stop: 11
+System Clock: 5400.0 :Bus departing stop: 14
+System Clock: 5400.0 :Bus departing stop: 2
+System Clock: 5400.0 :Bus departing stop: 5
+System Clock: 5700.0 : Bus arrived at stop: 9
+System Clock: 5700.0 : Bus arrived at stop: 12
+System Clock: 5700.0 : Bus arrived at stop: 15
+System Clock: 5700.0 : Bus arrived at stop: 3
+System Clock: 5700.0 : Bus arrived at stop: 6
+System Clock: 6300.0 :Bus departing stop: 9
+System Clock: 6300.0 :Bus departing stop: 12
+System Clock: 6300.0 :Bus departing stop: 15
+System Clock: 6300.0 :Bus departing stop: 3
+System Clock: 6300.0 :Bus departing stop: 6
+System Clock: 6600.0 : Bus arrived at stop: 10
+System Clock: 6600.0 : Bus arrived at stop: 13
+System Clock: 6600.0 : Bus arrived at stop: 1
+System Clock: 6600.0 : Bus arrived at stop: 4
+System Clock: 6600.0 : Bus arrived at stop: 7
+System Clock: 7200.0 :Bus departing stop: 10
+System Clock: 7200.0 :Bus departing stop: 13
+System Clock: 7200.0 :Bus departing stop: 1
+System Clock: 7200.0 :Bus departing stop: 4
+System Clock: 7200.0 :Bus departing stop: 7
+System Clock: 7500.0 : Bus arrived at stop: 11
+System Clock: 7500.0 : Bus arrived at stop: 14
+System Clock: 7500.0 : Bus arrived at stop: 2
+System Clock: 7500.0 : Bus arrived at stop: 5
+System Clock: 7500.0 : Bus arrived at stop: 8
+System Clock: 8100.0 :Bus departing stop: 11
+System Clock: 8100.0 :Bus departing stop: 14
+System Clock: 8100.0 :Bus departing stop: 2
+System Clock: 8100.0 :Bus departing stop: 5
+System Clock: 8100.0 :Bus departing stop: 8
+System Clock: 8400.0 : Bus arrived at stop: 12
+System Clock: 8400.0 : Bus arrived at stop: 15
+System Clock: 8400.0 : Bus arrived at stop: 3
+System Clock: 8400.0 : Bus arrived at stop: 6
+System Clock: 8400.0 : Bus arrived at stop: 9
+System Clock: 9000.0 :Bus departing stop: 12
+System Clock: 9000.0 :Bus departing stop: 15
+System Clock: 9000.0 :Bus departing stop: 3
+System Clock: 9000.0 :Bus departing stop: 6
+System Clock: 9000.0 :Bus departing stop: 9
+System Clock: 9300.0 : Bus arrived at stop: 13
+System Clock: 9300.0 : Bus arrived at stop: 1
+System Clock: 9300.0 : Bus arrived at stop: 4
+System Clock: 9300.0 : Bus arrived at stop: 7
+System Clock: 9300.0 : Bus arrived at stop: 10
+System Clock: 9900.0 :Bus departing stop: 13
+System Clock: 9900.0 :Bus departing stop: 1
+System Clock: 9900.0 :Bus departing stop: 4
+System Clock: 9900.0 :Bus departing stop: 7
+System Clock: 9900.0 :Bus departing stop: 10
+System Clock: 10200.0 : Bus arrived at stop: 14
+System Clock: 10200.0 : Bus arrived at stop: 2
+System Clock: 10200.0 : Bus arrived at stop: 5
+System Clock: 10200.0 : Bus arrived at stop: 8
+System Clock: 10200.0 : Bus arrived at stop: 11
+System Clock: 10800.0 :Bus departing stop: 14
+System Clock: 10800.0 :Bus departing stop: 2
+System Clock: 10800.0 :Bus departing stop: 5
+System Clock: 10800.0 :Bus departing stop: 8
+System Clock: 10800.0 :Bus departing stop: 11
+System Clock: 11100.0 : Bus arrived at stop: 15
+System Clock: 11100.0 : Bus arrived at stop: 3
+System Clock: 11100.0 : Bus arrived at stop: 6
+System Clock: 11100.0 : Bus arrived at stop: 9
+System Clock: 11100.0 : Bus arrived at stop: 12
+System Clock: 11700.0 :Bus departing stop: 15
+System Clock: 11700.0 :Bus departing stop: 3
+System Clock: 11700.0 :Bus departing stop: 6
+System Clock: 11700.0 :Bus departing stop: 9
+System Clock: 11700.0 :Bus departing stop: 12
+System Clock: 12000.0 : Bus arrived at stop: 1
+System Clock: 12000.0 : Bus arrived at stop: 4
+System Clock: 12000.0 : Bus arrived at stop: 7
+System Clock: 12000.0 : Bus arrived at stop: 10
+System Clock: 12000.0 : Bus arrived at stop: 13
+System Clock: 12600.0 :Bus departing stop: 1
+System Clock: 12600.0 :Bus departing stop: 4
+System Clock: 12600.0 :Bus departing stop: 7
+System Clock: 12600.0 :Bus departing stop: 10
+System Clock: 12600.0 :Bus departing stop: 13
+System Clock: 12900.0 : Bus arrived at stop: 2
+System Clock: 12900.0 : Bus arrived at stop: 5
+System Clock: 12900.0 : Bus arrived at stop: 8
+System Clock: 12900.0 : Bus arrived at stop: 11
+System Clock: 12900.0 : Bus arrived at stop: 14
+System Clock: 13500.0 :Bus departing stop: 2
+System Clock: 13500.0 :Bus departing stop: 5
+System Clock: 13500.0 :Bus departing stop: 8
+System Clock: 13500.0 :Bus departing stop: 11
+System Clock: 13500.0 :Bus departing stop: 14
+System Clock: 13800.0 : Bus arrived at stop: 3
+System Clock: 13800.0 : Bus arrived at stop: 6
+System Clock: 13800.0 : Bus arrived at stop: 9
+System Clock: 13800.0 : Bus arrived at stop: 12
+System Clock: 13800.0 : Bus arrived at stop: 15
+System Clock: 14400.0 :Bus departing stop: 3
+System Clock: 14400.0 :Bus departing stop: 6
+System Clock: 14400.0 :Bus departing stop: 9
+System Clock: 14400.0 :Bus departing stop: 12
+System Clock: 14400.0 :Bus departing stop: 15
+System Clock: 14700.0 : Bus arrived at stop: 4
+System Clock: 14700.0 : Bus arrived at stop: 7
+System Clock: 14700.0 : Bus arrived at stop: 10
+System Clock: 14700.0 : Bus arrived at stop: 13
+System Clock: 14700.0 : Bus arrived at stop: 1
+System Clock: 15300.0 :Bus departing stop: 4
+System Clock: 15300.0 :Bus departing stop: 7
+System Clock: 15300.0 :Bus departing stop: 10
+System Clock: 15300.0 :Bus departing stop: 13
+System Clock: 15300.0 :Bus departing stop: 1
+System Clock: 15600.0 : Bus arrived at stop: 5
+System Clock: 15600.0 : Bus arrived at stop: 8
+System Clock: 15600.0 : Bus arrived at stop: 11
+System Clock: 15600.0 : Bus arrived at stop: 14
+System Clock: 15600.0 : Bus arrived at stop: 2
+System Clock: 16200.0 :Bus departing stop: 5
+System Clock: 16200.0 :Bus departing stop: 8
+System Clock: 16200.0 :Bus departing stop: 11
+System Clock: 16200.0 :Bus departing stop: 14
+System Clock: 16200.0 :Bus departing stop: 2
+System Clock: 16500.0 : Bus arrived at stop: 6
+System Clock: 16500.0 : Bus arrived at stop: 9
+System Clock: 16500.0 : Bus arrived at stop: 12
+System Clock: 16500.0 : Bus arrived at stop: 15
+System Clock: 16500.0 : Bus arrived at stop: 3
+System Clock: 17100.0 :Bus departing stop: 6
+System Clock: 17100.0 :Bus departing stop: 9
+System Clock: 17100.0 :Bus departing stop: 12
+System Clock: 17100.0 :Bus departing stop: 15
+System Clock: 17100.0 :Bus departing stop: 3
+System Clock: 17400.0 : Bus arrived at stop: 7
+System Clock: 17400.0 : Bus arrived at stop: 10
+System Clock: 17400.0 : Bus arrived at stop: 13
+System Clock: 17400.0 : Bus arrived at stop: 1
+System Clock: 17400.0 : Bus arrived at stop: 4
+System Clock: 18000.0 :Bus departing stop: 7
+System Clock: 18000.0 :Bus departing stop: 10
+System Clock: 18000.0 :Bus departing stop: 13
+System Clock: 18000.0 :Bus departing stop: 1
+System Clock: 18000.0 :Bus departing stop: 4
+System Clock: 18300.0 : Bus arrived at stop: 8
+System Clock: 18300.0 : Bus arrived at stop: 11
+System Clock: 18300.0 : Bus arrived at stop: 14
+System Clock: 18300.0 : Bus arrived at stop: 2
+System Clock: 18300.0 : Bus arrived at stop: 5
+System Clock: 18900.0 :Bus departing stop: 8
+System Clock: 18900.0 :Bus departing stop: 11
+System Clock: 18900.0 :Bus departing stop: 14
+System Clock: 18900.0 :Bus departing stop: 2
+System Clock: 18900.0 :Bus departing stop: 5
+System Clock: 19200.0 : Bus arrived at stop: 9
+System Clock: 19200.0 : Bus arrived at stop: 12
+System Clock: 19200.0 : Bus arrived at stop: 15
+System Clock: 19200.0 : Bus arrived at stop: 3
+System Clock: 19200.0 : Bus arrived at stop: 6
+System Clock: 19800.0 :Bus departing stop: 9
+System Clock: 19800.0 :Bus departing stop: 12
+System Clock: 19800.0 :Bus departing stop: 15
+System Clock: 19800.0 :Bus departing stop: 3
+System Clock: 19800.0 :Bus departing stop: 6
+System Clock: 20100.0 : Bus arrived at stop: 10
+System Clock: 20100.0 : Bus arrived at stop: 13
+System Clock: 20100.0 : Bus arrived at stop: 1
+System Clock: 20100.0 : Bus arrived at stop: 4
+System Clock: 20100.0 : Bus arrived at stop: 7
+System Clock: 20700.0 :Bus departing stop: 10
+System Clock: 20700.0 :Bus departing stop: 13
+System Clock: 20700.0 :Bus departing stop: 1
+System Clock: 20700.0 :Bus departing stop: 4
+System Clock: 20700.0 :Bus departing stop: 7
+System Clock: 21000.0 : Bus arrived at stop: 11
+System Clock: 21000.0 : Bus arrived at stop: 14
+System Clock: 21000.0 : Bus arrived at stop: 2
+System Clock: 21000.0 : Bus arrived at stop: 5
+System Clock: 21000.0 : Bus arrived at stop: 8
+System Clock: 21600.0 :Bus departing stop: 11
+System Clock: 21600.0 :Bus departing stop: 14
+System Clock: 21600.0 :Bus departing stop: 2
+System Clock: 21600.0 :Bus departing stop: 5
+System Clock: 21600.0 :Bus departing stop: 8
+System Clock: 21900.0 : Bus arrived at stop: 12
+System Clock: 21900.0 : Bus arrived at stop: 15
+System Clock: 21900.0 : Bus arrived at stop: 3
+System Clock: 21900.0 : Bus arrived at stop: 6
+System Clock: 21900.0 : Bus arrived at stop: 9
+System Clock: 22500.0 :Bus departing stop: 12
+System Clock: 22500.0 :Bus departing stop: 15
+System Clock: 22500.0 :Bus departing stop: 3
+System Clock: 22500.0 :Bus departing stop: 6
+System Clock: 22500.0 :Bus departing stop: 9
+System Clock: 22800.0 : Bus arrived at stop: 13
+System Clock: 22800.0 : Bus arrived at stop: 1
+System Clock: 22800.0 : Bus arrived at stop: 4
+System Clock: 22800.0 : Bus arrived at stop: 7
+System Clock: 22800.0 : Bus arrived at stop: 10
+System Clock: 23400.0 :Bus departing stop: 13
+System Clock: 23400.0 :Bus departing stop: 1
+System Clock: 23400.0 :Bus departing stop: 4
+System Clock: 23400.0 :Bus departing stop: 7
+System Clock: 23400.0 :Bus departing stop: 10
+System Clock: 23700.0 : Bus arrived at stop: 14
+System Clock: 23700.0 : Bus arrived at stop: 2
+System Clock: 23700.0 : Bus arrived at stop: 5
+System Clock: 23700.0 : Bus arrived at stop: 8
+System Clock: 23700.0 : Bus arrived at stop: 11
+System Clock: 24300.0 :Bus departing stop: 14
+System Clock: 24300.0 :Bus departing stop: 2
+System Clock: 24300.0 :Bus departing stop: 5
+System Clock: 24300.0 :Bus departing stop: 8
+System Clock: 24300.0 :Bus departing stop: 11
+System Clock: 24600.0 : Bus arrived at stop: 15
+System Clock: 24600.0 : Bus arrived at stop: 3
+System Clock: 24600.0 : Bus arrived at stop: 6
+System Clock: 24600.0 : Bus arrived at stop: 9
+System Clock: 24600.0 : Bus arrived at stop: 12
+System Clock: 25200.0 :Bus departing stop: 15
+System Clock: 25200.0 :Bus departing stop: 3
+System Clock: 25200.0 :Bus departing stop: 6
+System Clock: 25200.0 :Bus departing stop: 9
+System Clock: 25200.0 :Bus departing stop: 12
+System Clock: 25500.0 : Bus arrived at stop: 1
+System Clock: 25500.0 : Bus arrived at stop: 4
+System Clock: 25500.0 : Bus arrived at stop: 7
+System Clock: 25500.0 : Bus arrived at stop: 10
+System Clock: 25500.0 : Bus arrived at stop: 13
+System Clock: 26100.0 :Bus departing stop: 1
+System Clock: 26100.0 :Bus departing stop: 4
+System Clock: 26100.0 :Bus departing stop: 7
+System Clock: 26100.0 :Bus departing stop: 10
+System Clock: 26100.0 :Bus departing stop: 13
+System Clock: 26400.0 : Bus arrived at stop: 2
+System Clock: 26400.0 : Bus arrived at stop: 5
+System Clock: 26400.0 : Bus arrived at stop: 8
+System Clock: 26400.0 : Bus arrived at stop: 11
+System Clock: 26400.0 : Bus arrived at stop: 14
+System Clock: 27000.0 :Bus departing stop: 2
+System Clock: 27000.0 :Bus departing stop: 5
+System Clock: 27000.0 :Bus departing stop: 8
+System Clock: 27000.0 :Bus departing stop: 11
+System Clock: 27000.0 :Bus departing stop: 14
+System Clock: 27300.0 : Bus arrived at stop: 3
+System Clock: 27300.0 : Bus arrived at stop: 6
+System Clock: 27300.0 : Bus arrived at stop: 9
+System Clock: 27300.0 : Bus arrived at stop: 12
+System Clock: 27300.0 : Bus arrived at stop: 15
+System Clock: 27900.0 :Bus departing stop: 3
+System Clock: 27900.0 :Bus departing stop: 6
+System Clock: 27900.0 :Bus departing stop: 9
+System Clock: 27900.0 :Bus departing stop: 12
+System Clock: 27900.0 :Bus departing stop: 15
+System Clock: 28200.0 : Bus arrived at stop: 4
+System Clock: 28200.0 : Bus arrived at stop: 7
+System Clock: 28200.0 : Bus arrived at stop: 10
+System Clock: 28200.0 : Bus arrived at stop: 13
+System Clock: 28200.0 : Bus arrived at stop: 1
+
+ Simulation Ended

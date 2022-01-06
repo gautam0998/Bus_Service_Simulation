@@ -1,0 +1,146 @@
+Snapshots 
+Average waiting people = (Total people)/(Total buses arrived at the stop)
+
+
+Snapshot at System Clock: 3600.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 12
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 15
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 3
+
+
+Snapshot at System Clock: 7200.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 10
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 13
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 1
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+
+Snapshot at System Clock: 10800.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 14
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 8
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 11
+
+
+Snapshot at System Clock: 14400.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 3
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 12
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 15
+
+
+Snapshot at System Clock: 18000.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 10
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 13
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 1
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+
+Snapshot at System Clock: 21600.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 11
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 14
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 2
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 5
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 8
+
+
+Snapshot at System Clock: 25200.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 15
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 3
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 6
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 9
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 12
+
+
+Snapshot at System Clock: 28800.0
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 1 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 4
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 2 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 7
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 3 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 10
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 4 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 13
+
+ * * * * * * * * * * * * * * * * * * * * Bus: 5 * * * * * * * * * * * * * * * * * * * * 
+Bus is at the stop: 1
